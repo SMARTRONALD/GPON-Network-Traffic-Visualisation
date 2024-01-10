@@ -31,11 +31,6 @@ This GPON GPON Network traffic Project paves the way for enhanced network monito
 # Installation
 Clone the Repository:
 
-bash
-Copy code
-git clone <repository-url>
-cd <repository-directory>
-
 # Setup PostgreSQL Database:
 
 Ensure you have a PostgreSQL database set up.
