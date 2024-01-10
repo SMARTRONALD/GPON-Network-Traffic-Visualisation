@@ -1,6 +1,5 @@
 # GPON-Network-Traffic-Visualisation
 
-![Project Image](link_to_project_image.png)
 <img width="604" alt="Screen Shot 2024-01-10 at 10 30 30" src="https://github.com/SMARTRONALD/GPON-Network-Traffic-Visualisation/assets/123365195/c02d69aa-df66-4328-958b-fcce6800ddf7">
 
 # Overview
